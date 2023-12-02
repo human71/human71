@@ -25,5 +25,5 @@
 #### <div align="center">Glad you are here!</div>  
   
 
-<div align="center">Since you've made it this far, it indicates your interest in one of my research projects. Kindly explore github.com/proadhikary and locate the repository you're looking for.
+<div align="center">Since you've made it this far, it indicates your interest in one of my research projects. Kindly explore github.com/proadhikary and locate the repository you're looking for or check out the forked repository.
 Thank you!😁</div>  
